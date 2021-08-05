@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: STAT 244NF
 tagline: Infectious Disease Modeling
-description: Course Website
+description: Fall 2021
 author: Marie Ozanne
 baseurl: '/STAT244NF' # the subpath of your site, e.g. /blog
 url: 'https://marievozanne/STAT244NF' # the base hostname & protocol for your site, e.g. http://example.com
