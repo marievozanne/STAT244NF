@@ -1,12 +1,12 @@
 ---
-title: Introduction to Java
+title: Introduction to Disease Modeling
 ---
 
-Sep 28
+Aug 31
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+Sept 2
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
