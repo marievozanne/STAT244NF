@@ -1,6 +1,6 @@
 ---
 timeline:
-  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -22,7 +22,7 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
-      events:
+    events:
       - name: STAT 244NF-02
         start: 8:30 AM
         end: 9:45 AM
@@ -33,7 +33,7 @@ schedule:
         location: TBA
   - name: Wednesday
   - name: Thursday
-        events:
+    events:
       - name: STAT 244NF-02
         start: 8:30 AM
         end: 9:45 AM
