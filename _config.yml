@@ -18,7 +18,7 @@ tagline: Infectious Disease Modeling
 description: Fall 2021
 author: Marie Ozanne
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://marievozanne/STAT244NF' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://marievozanne.github.io/STAT244NF' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
