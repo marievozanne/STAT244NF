@@ -24,9 +24,12 @@ description: >-
 
 # Policies
 
+## Attendance
+
 ## Time commitment
 
-## Attendance
+You are expected to budget approximately three out-of-class hours for every credit hour to complete readings, assignments, and homework (12 hours per week time commitment). If you are spending more time than this regularly, please check in with me.
+
 
 ## Collaboration
 
@@ -48,7 +51,7 @@ Cases of dishonesty, plagiarism, etc., will be reported.
 
 ## Academic accommodations 
 
-AccessAbility Services is the office on campus that determines academic accommodations for students with disabilities. If you need official accommodations through AccessAbility Services, you have a right to have these met and kept confidential. Please contact AccessAbility Services, located in Mary Lyon Hall 3rd Floor, at 413-538-2634 or accessability-services@mtholyoke.edu. If you are eligible for academic accommodations, you will be provided with an accommodation letter. Once you receive your accommodation letter, I would like to meet with you and discuss these approved accommodations and our class. For more information on who might be eligible for accommodations and the application process please see the AccessAbility Services website (\url{www.mtholyoke.edu/accessability}).
+AccessAbility Services is the office on campus that determines academic accommodations for students with disabilities. If you need official accommodations through AccessAbility Services, you have a right to have these met and kept confidential. Please contact AccessAbility Services, located in Mary Lyon Hall 3rd Floor, at 413-538-2634 or accessability-services@mtholyoke.edu. If you are eligible for academic accommodations, you will be provided with an accommodation letter. Once you receive your accommodation letter, I would like to meet with you and discuss these approved accommodations and our class. For more information on who might be eligible for accommodations and the application process please see the AccessAbility Services website (www.mtholyoke.edu/accessability).
 
 ## Religious accommodations
 

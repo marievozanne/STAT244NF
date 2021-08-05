@@ -26,6 +26,14 @@ Infectious disease has plagued humanity since time immemorial. Statistical model
 
 In this course, we will explore regression, compartmental and agent-based model approaches , which will be motivated by some of the most impactful epidemics and pandemics in recent history, including HIV/AIDS, Ebola, Zika, and COVID-19. 
 
+By the end of the course, you will be able to:
+
+1. Define important epidemiology terms relating to infectious diseases.
+2. Identify and estimate the effect of various risk factors for various infectious diseases through statistical models.
+3. Incorporate spatial dependence into statistical models.
+4. Simulate infection spread through agent-based modeling.
+5. Represent and make inference for infection spread through compartmental modeling.
+
 
 <small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
 
