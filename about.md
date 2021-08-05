@@ -6,9 +6,6 @@ description: >-
 ---
 
 
-
-# About
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -18,8 +15,10 @@ description: >-
 {:toc}
 </details>
 
+# About
 
 **Prerequisites**
+
 STAT 140
 
 # Policies

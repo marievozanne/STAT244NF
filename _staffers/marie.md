@@ -1,5 +1,6 @@
 ---
 name: Marie Ozanne
+pronouns: She/Her
 role: Instructor
 email: mozanne@mtholyoke.edu
 website: https://marievozanne.github.io

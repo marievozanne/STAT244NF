@@ -7,7 +7,7 @@ Aug 31
 <!--  : [1.1](#) This is the assigned reading. -->
 
 Sept 2
-: **Section**{: .label .label-purple }[Epidemiological Parameters](#)
+: [Epidemiological Parameters](#)
 <!--  : [Solution](#) -->
 
 <!--Sep 30
