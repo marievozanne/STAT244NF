@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: "STAT 244NF"
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: Infectious Disease Modeling
 ---
 
 # {{ site.tagline }}
@@ -12,16 +12,35 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign overview = site.slides | where: "title", "Overview" | first %}
+{{ overview.content }}
+
+<small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
+
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Just the Class
+## Class Description
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Infectious disease has plagued humanity since time immemorial. Statistical models serve a critical role in improving understanding of the progression and proliferation of infection in a population, as well as the impact of interventions in stopping the spread of disease. 
 
-- a [course calendar](calendar.md),
+In this course, we will explore regression, compartmental and agent-based model approaches , which will be motivated by some of the most impactful epidemics and pandemics in recent history, including HIV/AIDS, Ebola, Zika, and COVID-19. 
+
+
+
+- [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
 
@@ -30,6 +49,15 @@ Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/
 - automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
 - and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Getting Started
 
