@@ -20,7 +20,7 @@ description: >-
 
 
 ### Prerequisites
-: STAT 140
+  STAT 140
 
 # Policies
 
@@ -30,7 +30,17 @@ description: >-
 
 ## Collaboration
 
+Much of this course will operate on a collaborative basis, and you are expected and encouraged to work together with a partner or in small groups to study, complete homework assignments, and prepare for exams. However, every word that you write must be your own.  Copying and pasting sentences, paragraphs, or large blocks of R code from another student is not acceptable and will receive no credit or a penalty.  No interaction with anyone but the instructor is allowed on any exams or quizzes.  All students, staff and faculty are bound by the Mount Holyoke College Honor Code.
+
+To sum up: **I want you to work together** on homeworks and labs.  *But,* **you must write up your answers yourself.**
+
+Cases of dishonesty, plagiarism, etc., will be reported.
+
 ## Assignments
+
+### Homework
+
+### Quizzes
 
 ## Grading
 
