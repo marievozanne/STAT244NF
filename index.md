@@ -33,6 +33,7 @@ By the end of the course, you will be able to:
 3. Incorporate spatial dependence into statistical models.
 4. Simulate infection spread through agent-based modeling.
 5. Represent and make inference for infection spread through compartmental modeling.
+6. Explain the strengths and limitations of the modeling methods presented in this class.
 
 
 <small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
