@@ -20,6 +20,13 @@ seo:
 {% assign overview = site.slides | where: "title", "Overview" | first %}
 {{ overview.content }}
 
+## Class Description
+
+Infectious disease has plagued humanity since time immemorial. Statistical models serve a critical role in improving understanding of the progression and proliferation of infection in a population, as well as the impact of interventions in stopping the spread of disease. 
+
+In this course, we will explore regression, compartmental and agent-based model approaches , which will be motivated by some of the most impactful epidemics and pandemics in recent history, including HIV/AIDS, Ebola, Zika, and COVID-19. 
+
+
 <small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
 
 {% for module in site.modules %}
@@ -31,22 +38,6 @@ seo:
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
-## Class Description
-
-Infectious disease has plagued humanity since time immemorial. Statistical models serve a critical role in improving understanding of the progression and proliferation of infection in a population, as well as the impact of interventions in stopping the spread of disease. 
-
-In this course, we will explore regression, compartmental and agent-based model approaches , which will be motivated by some of the most impactful epidemics and pandemics in recent history, including HIV/AIDS, Ebola, Zika, and COVID-19. 
-
 
 
 - [course calendar](calendar.md),

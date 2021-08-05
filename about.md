@@ -5,19 +5,18 @@ description: >-
     Course policies and information.
 ---
 
+
+
 # About
-{:.no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
-
----
-
-{% assign overview = site.slides | where: "title", "Overview" | first %}
-{{ overview.content }}
+</details>
 
 
 Prerequisites
