@@ -76,7 +76,7 @@ The best way to learn statistics is to do it.  This class will be built around a
 
 ### Homework
 
-We will have regular homework assignments to be completed outside of class. **Homework will be submitted to Gradescope, and will be due on Thursday of each week.**
+We will have regular homework assignments to be completed outside of class. **Homework will be submitted to Gradescope, and will be due on Friday of each week.** Homework problems are intended to give you practice on the material we work on in class. As long as an attempt was made, homework problems from each assignment can be redone once ; redos must be accompanied by a written reflection on what was missed in the first attempt.  
 
 ### Late Assignments 
 
@@ -84,7 +84,7 @@ While I will post due dates for assignments, there is flexibility in these due d
 
 ### Weekly Quizzes
 
-There will be weekly quizzes on material from class readings, lecture, and class activities/labs. These are low stakes assignments intended to measure comprehension. The assessments will be administered through Moodle. 
+There will be weekly quizzes on material from class readings, lecture, and class activities/labs. These are low stakes assignments intended to measure comprehension. The assessments will be administered through Moodle and are closed book/closed note/closed internet.  
 
 ### Projects
 
