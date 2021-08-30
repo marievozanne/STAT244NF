@@ -7,8 +7,8 @@ Aug 31
 <!--  : [1.1](#) This is the assigned reading. -->
 
 Sept 2
-: [Epidemiological Parameters](#)
-<!--  : [Solution](#) -->
+: [Infectious Disease Data and R Review]
+  : [R Lab 0](https://github.com/mhc-stat-244nf-f2021/Lab_0)
 
 <!--Sep 30
 : [Variables & Objects](#)
