@@ -7,6 +7,8 @@ Sept 7
 
 Sept 9
 : [](#)
+
+Sept 10
 : **HW 1 due**{: .label .label-red }
 
 Sept 14
@@ -14,7 +16,9 @@ Sept 14
 
 Sept 16
 : [](#)
-:**HW 2 due**{: .label .label-red }
+
+Sept 17
+: **HW 2 due**{: .label .label-red }
 
 <!-- Oct 5
 : [Linked Lists & Encapsulation](#)

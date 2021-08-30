@@ -3,7 +3,7 @@ title: Introduction to Disease Modeling
 ---
 
 Aug 31
-: [Welcome to STAT 244NF](#)
+: [Welcome to STAT 244NF](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/0_Lec_Intro_IDM.pdf)
   : [Class Activity: "Agent X"](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/0_CA_Brainstorm_Agent_X.pdf) 
 
 Sept 2
