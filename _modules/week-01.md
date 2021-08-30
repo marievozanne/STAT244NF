@@ -4,10 +4,10 @@ title: Introduction to Disease Modeling
 
 Aug 31
 : [Welcome to STAT 244NF](#)
-<!--  : [1.1](#) This is the assigned reading. -->
+  : [Warm-up Activity: "Agent X"](#) 
 
 Sept 2
-: [Infectious Disease Data and R Review]
+: Infectious Disease Data and R Review
   : [R Lab 0](https://github.com/mhc-stat-244nf-f2021/Lab_0)
 
 <!--Sep 30
