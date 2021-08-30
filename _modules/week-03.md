@@ -1,5 +1,5 @@
 ---
-title: Scan Statistics
+title: Compartmental Models
 ---
 
 

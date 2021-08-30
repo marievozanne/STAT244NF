@@ -87,7 +87,16 @@ There will be two projects in this class, an Epidemiological Characteristics Pro
 
 When grading your written work, I am looking for solutions that are technically correct and reasoning that is clearly explained. *Numerically correct answers, alone, are not sufficient* on any assignments. Neatness and organization are valued, with brief, clear answers that explain your thinking. If I cannot read or follow your work, then I cannot give you full credit for it. Your grade for this course will be a weighted average of the following components:
 
-\begin{table}[!h]
+| Item          | Weight |
+| ------------- |:------:|
+| Participation | 10%    |
+| Labs          | 10%    |
+| Homework      | 15%    |
+| Quizzes       | 20%    |
+| Project 1     | 20%    |
+| Project 2     | 25%    |
+
+<!--\begin{table}[!h]
 \centering
 \begin{tabular}{l r}
 \toprule
@@ -105,7 +114,7 @@ Epidemiological Characteristics Project & 20\%\\
 Modeling Project & 25\%\\
 \bottomrule
 \end{tabular}
-\end{table}
+\end{table} -->
 
 # Accommodations
 
