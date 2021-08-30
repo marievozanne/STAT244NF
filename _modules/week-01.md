@@ -4,7 +4,7 @@ title: Introduction to Disease Modeling
 
 Aug 31
 : [Welcome to STAT 244NF](#)
-  : [Class Activity: "Agent X"](#) 
+  : [Class Activity: "Agent X"](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/0_CA_Brainstorm_Agent_X.pdf) 
 
 Sept 2
 : Infectious Disease Data and R Review
