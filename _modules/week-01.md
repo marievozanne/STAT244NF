@@ -4,7 +4,7 @@ title: Introduction to Disease Modeling
 
 Aug 31
 : [Welcome to STAT 244NF](#)
-  : [Warm-up Activity: "Agent X"](#) 
+  : [Class Activity: "Agent X"](#) 
 
 Sept 2
 : Infectious Disease Data and R Review

@@ -1,6 +1,13 @@
 ---
-title: Regression-based Methods
+title: Epidemiological Characteristics
 ---
+
+Sept 7
+: [Incidence and Prevalence](#)
+
+Sept 9
+: [](#)
+: **HW 1 due**{: .label .label-red }
 
 <!-- Oct 5
 : [Linked Lists & Encapsulation](#)
