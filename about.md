@@ -25,6 +25,14 @@ STAT 140
 
 # Policies
 
+## General Expectations
+
+
+- All individuals should wear a snug-fitting, multi-layered mask over their nose and mouth in class (at all times). If someone forgets their mask, please remind them quickly and politely.
+- Refrain from eating or drinking in our shared classroom space. If you need to do so, please step outside for a quick break.
+- Abide by the \href{https://www.mtholyoke.edu/opening-gates/community-compact-students}{Community Compact}.
+- Understand that this remains an uncertain and difficult time for many of us; generosity, grace, and kindness will help get us all through this. 
+
 ## Attendance
 
 Please come to class, unless you are sick. If you are sick, please let me know and stay home and rest. Please err on the side of staying home if you are feeling unwell! Many assignments are flexible enough to be completed outside of class if the need arises, so take advantage of the flexibility if you are unwell.
