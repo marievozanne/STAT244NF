@@ -29,8 +29,8 @@ By the end of the course, you will be able to:
 1. Define and estimate important epidemiology terms relating to infectious diseases.
 2. Identify and estimate the effect of various risk factors for various infectious diseases through regression-based statistical models.
 3. Represent and simulate infection spread through probabilistic compartmental models.
-5. Simulate infection spread through agent-based models.
-6. Explain the strengths and limitations of the modeling methods presented in this class.
+4. Simulate infection spread through agent-based models.
+5. Explain the strengths and limitations of the modeling methods presented in this class.
 
 
 <small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
