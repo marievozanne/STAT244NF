@@ -132,7 +132,7 @@ AccessAbility Services is the office on campus that determines academic accommod
 
 **Religious accommodations**
 
-In support of our religiously diverse student population, students may miss a class, obtain an extension on an assignment, or reschedule an exam if there is a conflict with a religious high holiday or observance. Students should **notify me at the beginning of the module if a religious observance will require special accommodation**. 
+In support of our religiously diverse student population, students may miss a class, obtain an extension on an assignment, or reschedule an exam if there is a conflict with a religious high holiday or observance. Students should **notify me at the beginning of the semester if a religious observance will require special accommodation**. 
 
 **Audio/Visual Recording Policy**
 
