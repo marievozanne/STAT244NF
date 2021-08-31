@@ -30,7 +30,7 @@ STAT 140
 
 - All individuals should wear a snug-fitting, multi-layered mask over their nose and mouth in class (at all times). If someone forgets their mask, please remind them quickly and politely.
 - Refrain from eating or drinking in our shared classroom space. If you need to do so, please step outside for a quick break.
-- Abide by the [Community Compact](https://www.mtholyoke.edu/opening-gates/community-compact-students).
+- Abide by the \href{https://www.mtholyoke.edu/opening-gates/community-compact-students}{Community Compact}.
 - Understand that this remains an uncertain and difficult time for many of us; generosity, grace, and kindness will help get us all through this. 
 
 ## Attendance
@@ -58,7 +58,7 @@ Cases of dishonesty, plagiarism, etc., will be reported.
 
 Modern statistics can’t be done without computation. We will use the R statistical programming language in this course. R is one of the most commonly used programming languages in academic statistics, and I use it daily; it’s also very commonly used in statistics and data science positions in industry. Knowing R is a marketable skill. In this class, you will use R most days, and for many homework problems. I expect that you are familiar with R from previous classes, but I do not expect that you are an expert at R yet. That said, it is imperative  that you let me know if you are confused about anything we are doing in R as soon as possible.
 
-We will use R via RStudio. You can either download R and RStudio on your personal computer to work locally (encouraged) or you can use RStudio through Mount Holyoke's Server: [https://rstudio.mtholyoke.edu/](https://rstudio.mtholyoke.edu/). Should you choose to do the former, make sure you have installed at least version 3.6.3 of R and the latest versions of any R libraries we use.
+We will use R via RStudio. You can either download R and RStudio on your personal computer to work locally (encouraged) or you can use RStudio through Mount Holyoke's Server: \url{https://rstudio.mtholyoke.edu/}. Should you choose to do the former, make sure you have installed at least version 3.6.3 of R and the latest versions of any R libraries we use.
 
 ## Computing Grant Intervention
 
@@ -76,7 +76,7 @@ The best way to learn statistics is to do it.  This class will be built around a
 
 ### Homework
 
-We will have regular homework assignments to be completed outside of class. **Homework will be submitted to Gradescope, and will be due on Friday of each week.** Homework problems are intended to give you practice on the material we work on in class. As long as an attempt was made, homework problems from each assignment can be redone once ; redos must be accompanied by a written reflection on what was missed in the first attempt.  
+We will have regular homework assignments to be completed outside of class. **Homework will be submitted to Gradescope, and will be due on Thursday of each week.**
 
 ### Late Assignments 
 
@@ -84,7 +84,7 @@ While I will post due dates for assignments, there is flexibility in these due d
 
 ### Weekly Quizzes
 
-There will be weekly quizzes on material from class readings, lecture, and class activities/labs. These are low stakes assignments intended to measure comprehension. The assessments will be administered through Moodle and are closed book/closed note/closed internet.  
+There will be weekly quizzes on material from class readings, lecture, and class activities/labs. These are low stakes assignments intended to measure comprehension. The assessments will be administered through Moodle. 
 
 ### Projects
 
