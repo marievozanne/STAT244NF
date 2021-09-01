@@ -21,7 +21,7 @@ As we are all painfully aware, infectious disease can play a prominent role in o
 
 **Prerequisites**
 
-STAT 140
+STAT 140 (or equivalent)
 
 **Textbook**
 
