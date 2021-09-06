@@ -21,7 +21,11 @@ As we are all painfully aware, infectious disease can play a prominent role in o
 
 **Prerequisites**
 
-STAT 140
+STAT 140 (or equivalent)
+
+**Textbook**
+
+Infectious disease modeling is not regularly taught at this level, particularly from a statistical perspective. As a consequence, there is not a single good text that we can follow in the class. I will provide you with detailed notes and links to relevant reading materials for the topics covered in this class. The good news is, there is no need to buy a textbook!
 
 # Policies
 
@@ -59,6 +63,8 @@ Cases of dishonesty, plagiarism, etc., will be reported.
 Modern statistics can’t be done without computation. We will use the R statistical programming language in this course. R is one of the most commonly used programming languages in academic statistics, and I use it daily; it’s also very commonly used in statistics and data science positions in industry. Knowing R is a marketable skill. In this class, you will use R most days, and for many homework problems. I expect that you are familiar with R from previous classes, but I do not expect that you are an expert at R yet. That said, it is imperative  that you let me know if you are confused about anything we are doing in R as soon as possible.
 
 We will use R via RStudio. You can either download R and RStudio on your personal computer to work locally (encouraged) or you can use RStudio through Mount Holyoke's Server: [https://rstudio.mtholyoke.edu/](https://rstudio.mtholyoke.edu/). Should you choose to do the former, make sure you have installed at least version 3.6.3 of R and the latest versions of any R libraries we use.
+
+It is important to **bring your laptop to class**; we will be using R nearly every day. Much of this work will be done in pairs (or solo, depending on physical distancing), but we need to ensure that there are a sufficient number of computers. Also, it is good practice to code solutions yourself, too, even if you are working in a pair. Please let me know if this presents any issues; there are department laptops available for you to borrow.
 
 ## Computing Grant Intervention
 
@@ -132,7 +138,7 @@ AccessAbility Services is the office on campus that determines academic accommod
 
 **Religious accommodations**
 
-In support of our religiously diverse student population, students may miss a class, obtain an extension on an assignment, or reschedule an exam if there is a conflict with a religious high holiday or observance. Students should **notify me at the beginning of the module if a religious observance will require special accommodation**. 
+In support of our religiously diverse student population, students may miss a class, obtain an extension on an assignment, or reschedule an exam if there is a conflict with a religious high holiday or observance. Students should **notify me at the beginning of the semester if a religious observance will require special accommodation**. 
 
 **Audio/Visual Recording Policy**
 
