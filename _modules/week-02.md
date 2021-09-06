@@ -4,7 +4,7 @@ title: Epidemiological Characteristics
 
 Sept 7
 : [Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_Lec_Measures_of_Risk.pdf)
-  : [Class Activity: Incidence and Prevalence](#)
+  : [Class Activity: Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_CA_Incidence_Prevalence.pdf)
 
 Sept 9
 : [Incidence and Prevalence](#)
