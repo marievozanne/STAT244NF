@@ -12,7 +12,7 @@ Sept 9
 
 Sept 10
 : **HW 1 due**{: .label .label-red }
-**HW 2**{: .label .label-red } [Homework 2 R Markdown](#)
+: **HW 2**{: .label .label-red } [Homework 2 R Markdown](#)
 
 Sept 14
 : [](#)
