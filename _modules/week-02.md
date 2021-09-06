@@ -3,11 +3,22 @@ title: Epidemiological Characteristics
 ---
 
 Sept 7
-: [Incidence and Prevalence](#)
+: [Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_Lec_Measures_of_Risk.pdf)
 
 Sept 9
 : [](#)
+
+Sept 10
 : **HW 1 due**{: .label .label-red }
+
+Sept 14
+: [](#)
+
+Sept 16
+: [](#)
+
+Sept 17
+: **HW 2 due**{: .label .label-red }
 
 <!-- Oct 5
 : [Linked Lists & Encapsulation](#)
