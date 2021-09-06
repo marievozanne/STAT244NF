@@ -7,11 +7,12 @@ Sept 7
   : [Class Activity: Incidence and Prevalence](#)
 
 Sept 9
-: [](#)
+: [Incidence and Prevalence](#)
   : [R Lab 1](#)
 
 Sept 10
 : **HW 1 due**{: .label .label-red }
+**HW 2**{: .label .label-red } [Homework 2 R Markdown](#)
 
 Sept 14
 : [](#)
