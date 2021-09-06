@@ -7,12 +7,12 @@ Sept 7
   : [Class Activity: Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_CA_Incidence_Prevalence.pdf)
 
 Sept 9
-: [Incidence and Prevalence](#)
-  : [R Lab 1](#)
+: [Incidence and Prevalence]
+  : [R Lab 1]
 
 Sept 10
 : **HW 1 due**{: .label .label-red }
-: **HW 2**{: .label .label-red } [Homework 2 R Markdown](#)
+: **HW 2**{: .label .label-red } [Homework 2 R Markdown]
 
 Sept 14
 : [](#)
