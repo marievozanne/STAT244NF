@@ -1,10 +1,11 @@
 ---
-title: Week 1 Announcement
+title: 9/2/2021 Announcement
 week: 1
-date: 2019-04-08
+date: 2021-09-02
 ---
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+1. Complete R Lab 0 to the best of your ability and turn in the knitted version to Gradescope.
+2. Bring any questions from the lab to class on Tuesday -- we will discuss in the first few minutes. 
+3. We will be looking at incidence and prevalence of diseases on Tuesday. This [resource](https://www.publichealth.hscni.net/node/5277) provides a good analogy for distinguishing between the two.
+4. Homework and anything else to prepare for Tuesday will be posted by Friday 9/3/2021.
+
