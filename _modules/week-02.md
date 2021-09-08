@@ -7,8 +7,8 @@ Sept 7
   : [Class Activity: Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_CA_Incidence_Prevalence.pdf)
 
 Sept 9
-: [Incidence and Prevalence]
-  : [R Lab 1]
+: Incidence and Prevalence
+  : [R Lab 1](https://github.com/mhc-stat-244nf-f2021/Lab_1)
 
 Sept 10
 : **HW 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
