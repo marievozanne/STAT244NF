@@ -8,7 +8,7 @@ Sept 7
 
 Sept 9
 : Incidence and Prevalence
-  : [R Lab 1](https://github.com/mhc-stat-244nf-f2021/Lab_1)
+  : [R Lab 1](https://github.com/mhc-stat-244nf-f2021/Lab_1); [Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_1_solutions)
 
 Sept 10
 : **HW 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
