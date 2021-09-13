@@ -13,7 +13,7 @@ Sept 9
 Sept 10
 : **HW 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**HW 2**{: .label .label-red } [Homework 2 R Markdown]
+**HW 2**{: .label .label-red } [Homework 2 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_2)
 
 Sept 14
 : [Modeling Rates](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/3_Lec_log_linear_model.pdf)
