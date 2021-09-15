@@ -19,10 +19,11 @@ Sept 14
 : [Modeling Rates](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/3_Lec_log_linear_model.pdf)
 
 Sept 16
-: [](#)
+: Modeling Rates: Poisson Regression and Relative Risk
+  : [R Lab 2](https://github.com/mhc-stat-244nf-f2021/Lab_2)
 
 Sept 17
-: **HW 2 due**{: .label .label-red }
+: **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
 <!-- Oct 5
 : [Linked Lists & Encapsulation](#)
