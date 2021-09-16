@@ -21,6 +21,7 @@ Sept 14
 Sept 16
 : Modeling Rates: Poisson Regression and Relative Risk
   : [R Lab 2](https://github.com/mhc-stat-244nf-f2021/Lab_2)
+: [Reading: Relative Risk and Odds Ratio](https://www.ncbi.nlm.nih.gov/books/NBK430824/)
 
 Sept 17
 : **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
