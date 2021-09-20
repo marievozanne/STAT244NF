@@ -29,7 +29,7 @@ Sept 17
 **HW 3**{: .label .label-red } [Homework 3 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_3)
 
 Sept 21
-: [Relative Risk and Odds Ratio](#)
+: [Relative Risk and Odds Ratio](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/4_Lec_RR_OR.pdf)
 
 Sept 23
 
