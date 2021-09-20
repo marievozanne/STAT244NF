@@ -26,6 +26,14 @@ Sept 16
 Sept 17
 : **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+**HW 3**{: .label .label-red } [Homework 3 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_3)
+
+Sept 21
+: [Relative Risk and Odds Ratio](#)
+
+Sept 23
+
+Sept 24
 <!-- Oct 5
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
