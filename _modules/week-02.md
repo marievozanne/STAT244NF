@@ -32,6 +32,8 @@ Sept 21
 : [Relative Risk and Odds Ratio](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/4_Lec_RR_OR.pdf)
 
 Sept 23
+: Connecting OR and RR to GLMs
+  :[R Lab 3](https://github.com/mhc-stat-244nf-f2021/Lab_3)
 
 Sept 24
 : **HW 3 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
