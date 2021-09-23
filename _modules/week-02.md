@@ -1,5 +1,5 @@
 ---
-title: Epidemiological Characteristics
+title: Epidemiological Characteristics and Regression-based Methods
 ---
 
 Sept 7
