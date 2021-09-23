@@ -33,7 +33,8 @@ Sept 21
 
 Sept 23
 : Connecting OR and RR to GLMs
-  : [R Lab 3](https://github.com/mhc-stat-244nf-f2021/Lab_3)
+  : [R Lab 3](https://github.com/mhc-stat-244nf-f2021/Lab_3);
+[Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_3_solutions)
 
 Sept 24
 : **HW 3 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
