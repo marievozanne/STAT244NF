@@ -40,9 +40,15 @@ Sept 23
 Sept 24
 : **HW 3 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+**HW 4**{: .label .label-red } [Homework 4 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_4)
+
 Sept 28
-:
+: [Data Limitations and GLMs](#)
 
 Sept 30
-:
+: [Measures of Spread and Progression of Infectious Diseases]()
 
+Oct 1
+: **HW 4 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+**Project 1**{: .label .label-red }
