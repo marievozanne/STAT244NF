@@ -51,4 +51,4 @@ Sept 30
 Oct 1
 : **HW 4 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**Project 1**{: .label .label-red }
+**Project 1**{: .label .label-red } [Description](https://github.com/marievozanne/STAT244NF_class/blob/main/Project1/Project_1.pdf)
