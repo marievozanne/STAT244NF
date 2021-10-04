@@ -46,7 +46,7 @@ Sept 28
 : [Data Limitations and GLMs](#)
 
 Sept 30
-: [Measures of Spread and Progression of Infectious Diseases](#)
+: Mountain Day - Class Canceled 
 
 Oct 1
 : **HW 4 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
