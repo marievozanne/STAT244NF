@@ -43,7 +43,7 @@ Sept 24
 **HW 4**{: .label .label-red } [Homework 4 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_4)
 
 Sept 28
-: [Data Limitations and GLMs](#)
+: Data Limitations and GLMs
 
 Sept 30
 : Mountain Day - Class Canceled 

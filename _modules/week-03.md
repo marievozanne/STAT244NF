@@ -10,7 +10,7 @@ Oct 7
 : [Introduction to Compartmental Models](#)
 
 Oct 8
-: **Project 1**{: .label .label-red } check-in due
+: **Project 1**{: .label .label-red } [check-in](https://github.com/mhc-stat-244nf-f2021/Project_1_checkin/blob/main/Project_1_checkin.pdf) due (turn in to [Gradescope](https://gradescope.com))
 
 **HW 5**{: .label .label-red } [Homework 5 R Markdown](#)<!--(https://github.com/mhc-stat-244nf-f2021/Homework_5)-->
 
@@ -22,6 +22,9 @@ Oct 14
 
 Oct 15
 : **HW 5 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+Oct 18
+: **Project 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
 
 
