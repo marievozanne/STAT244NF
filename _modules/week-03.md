@@ -7,7 +7,8 @@ Oct 5
   : [Class Activity](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/6_CA_Compartmental.pdf)
 
 Oct 7
-: [Introduction to Compartmental Models](#)
+: For Loops and Compartmental Models
+  : [R Lab 4](https://github.com/mhc-stat-244nf-f2021/Lab_4)
 
 Oct 8
 : **Project 1**{: .label .label-red } [check-in](https://github.com/mhc-stat-244nf-f2021/Project_1_checkin/blob/main/Project_1_checkin.pdf) due (turn in to [Gradescope](https://gradescope.com))
