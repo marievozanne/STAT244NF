@@ -19,7 +19,7 @@ Oct 8
 **HW 5**{: .label .label-red } [Homework 5 R Markdown](#)<!--(https://github.com/mhc-stat-244nf-f2021/Homework_5)-->
 
 Oct 12
-: Fall Break (no class)
+: Fall Break (No class)
 
 Oct 14
 : [SIR Model](#)
