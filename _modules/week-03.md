@@ -8,7 +8,8 @@ Oct 5
 
 Oct 7
 : For Loops and Compartmental Models
-  : [R Lab 4](https://github.com/mhc-stat-244nf-f2021/Lab_4)
+  : [R Lab 4](https://github.com/mhc-stat-244nf-f2021/Lab_4);
+[Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_4_solutions)
 
 Oct 8
 : **Project 1**{: .label .label-red } [check-in](https://github.com/mhc-stat-244nf-f2021/Project_1_checkin/blob/main/Project_1_checkin.pdf) due (turn in to [Gradescope](https://gradescope.com))
