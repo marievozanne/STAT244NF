@@ -27,7 +27,7 @@ Sept 16
 Sept 17
 : **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**HW 3**{: .label .label-red } [Homework 3 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_3)
+**HW 3**{: .label .label-red } <!--[Homework 3 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_3)-->
 
 Sept 21
 : [Relative Risk and Odds Ratio](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/4_Lec_RR_OR.pdf)
@@ -38,7 +38,7 @@ Sept 23
 [Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_3_solutions)
 
 Sept 24
-: **HW 3 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+: **HW 3 due**{: .label .label-red } (Discussed in class)
 
 **HW 4**{: .label .label-red } [Homework 4 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_4)
 

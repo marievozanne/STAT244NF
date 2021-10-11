@@ -16,7 +16,7 @@ Oct 8
 
 : **Extra Practice**{: .label .label-red } [RR/OR/GLMs](https://github.com/mhc-stat-244nf-f2021/Extra_OR_RR_glms) due (in place of quiz) (turn in to [Gradescope](https://gradescope.com))
 
-**HW 5**{: .label .label-red } [Homework 5 R Markdown](#)<!--(https://github.com/mhc-stat-244nf-f2021/Homework_5)-->
+**HW 5**{: .label .label-red } [Homework 5 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_5)
 
 Oct 12
 : Fall Break (No class)
