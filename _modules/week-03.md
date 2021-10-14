@@ -22,14 +22,25 @@ Oct 12
 : Fall Break (No class)
 
 Oct 14
-: [SIR Model](#)
+: Time-dependent Transitions in Compartmental Models
+  : [R Lab 5](https://github.com/mhc-stat-244nf-f2021/Lab_5);
+  [Solutions](#)
 
 Oct 15
 : **HW 5 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+**HW 6**{: .label .label-red } [Homework 6 R Markdown](#) <!--(https://github.com/mhc-stat-244nf-f2021/Homework_6)-->
+
 Oct 18
 : **Project 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+Oct 19
+:
 
+Oct 21
+:
+
+Oct 22
+: **HW 6 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
 
