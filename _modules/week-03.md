@@ -35,7 +35,7 @@ Oct 18
 : **Project 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
 Oct 19
-:
+: 
 
 Oct 21
 :
