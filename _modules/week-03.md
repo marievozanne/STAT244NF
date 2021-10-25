@@ -46,4 +46,17 @@ Oct 21
 Oct 22
 : **HW 6 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+**HW 7**{: .label .label-red } [Homework 7 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_7)
+
+Oct 26
+: [Reproductive Numbers, Growth Rate, and Serial Intervals](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/10_Lec_Compartmental_RN_SerialInt_GrowthRate.pdf)
+
+Oct 28
+:
+
+Oct 29
+: **HW 7 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+
+
 
