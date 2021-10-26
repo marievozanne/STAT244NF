@@ -41,7 +41,7 @@ Oct 19
 Oct 21
 : Writing Functions in R: Compartmental Model Simulations
   [R Lab 6](https://github.com/mhc-stat-244nf-f2021/Lab_6);
-  [Solutions](#)
+  [Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_6_solutions)
 
 Oct 22
 : **HW 6 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
