@@ -52,7 +52,8 @@ Oct 26
 : [Reproductive Numbers, Growth Rate, and Serial Intervals](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/10_Lec_Compartmental_RN_SerialInt_GrowthRate.pdf)
 
 Oct 28
-:
+: Functions for SIR and SEIR Models, and Returning Lists
+  : [R Lab 7](https://github.com/mhc-stat-244nf-f2021/Lab_7/blob/main/11_Lab_R_Fcns_Lists_SIR_SEIR.Rmd); Solutions
 
 Oct 29
 : **HW 7 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
