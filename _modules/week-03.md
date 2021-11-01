@@ -58,6 +58,16 @@ Oct 28
 Oct 29
 : **HW 7 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
+**HW 8**{: .label .label-red } [Homework 8 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_8)
+
+Nov 2
+: [Introduction to Stochastic Compartmental Models](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/12_Lec_Intro_Stoch_CompMod.pdf)
+
+Nov 4
+: Time-steps in Compartmental Models
+  : [R Lab 8](#); Solutions
+
+ 
 
 
 
