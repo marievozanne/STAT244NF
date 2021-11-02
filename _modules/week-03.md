@@ -53,7 +53,7 @@ Oct 26
 
 Oct 28
 : Functions for SIR and SEIR Models, and Returning Lists
-  : [R Lab 7](https://github.com/mhc-stat-244nf-f2021/Lab_7); Solutions
+  : [R Lab 7](https://github.com/mhc-stat-244nf-f2021/Lab_7); [Solutions](https://github.com/mhc-stat-244nf-f2021/Lab7_solutions)
 
 Oct 29
 : **HW 7 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
