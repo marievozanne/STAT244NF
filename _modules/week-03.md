@@ -67,6 +67,8 @@ Nov 4
   
 **HW 8**{: .label .label-red } [Homework 8 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_8)
 
+**Final Compartmental Model Simulation Project**{: .label .label-red } [Project Assignment](https://github.com/marievozanne/STAT244NF_class/blob/main/Final_Project/Final_Project_Assignment.pdf)
+
  
 
 
