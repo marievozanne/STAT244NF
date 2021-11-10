@@ -65,11 +65,30 @@ Nov 4
 : Stochastic Compartmental Models in R
   : [R Lab 8](https://github.com/mhc-stat-244nf-f2021/Lab_8); Solutions
   
-**HW 8**{: .label .label-red } [Homework 8 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_8)
+**HW 8 (Final Project Check-in)**{: .label .label-red } [Project Template R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_8)
 
 **Final Compartmental Model Simulation Project**{: .label .label-red } [Project Assignment](https://github.com/marievozanne/STAT244NF_class/blob/main/Final_Project/Final_Project_Assignment.pdf)
 
- 
+Nov 9
+: Birth and Death Processes in Compartmental Models (written notes, available on class recording on Moodle - typed summary is forthcoming)
 
+Nov 11
+: Storage for Multiple Simulations; Incorporating Births and Deaths
+  : [R Lab 9](https://github.com/mhc-stat-244nf-f2021/Lab_9); Solutions
+  
+Nov 12
+: **HW 8 (Final Project Check-in) Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+**HW 9**{: .label .label-red } [Homework 9 R Markdown](#)<!--(https://github.com/mhc-stat-244nf-f2021/Homework_9)-->
+  
+Nov 16
+: Age-Dependent Structures in Compartmental Models
+
+Nov 18
+: Age-Dependence and Vaccination Effects
+  : [R Lab 10](#)
+
+Nov 19
+: **HW 9 Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
 
