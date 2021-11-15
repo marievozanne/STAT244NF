@@ -79,7 +79,7 @@ Nov 11
 Nov 12
 : **HW 8 (Final Project Check-in) Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**HW 9**{: .label .label-red } [Homework 9 R Markdown](#)<!--(https://github.com/mhc-stat-244nf-f2021/Homework_9)-->
+**HW 9**{: .label .label-red } [Homework 9 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_9)
   
 Nov 16
 : Age-Dependent Structures in Compartmental Models
