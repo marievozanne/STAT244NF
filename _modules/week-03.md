@@ -82,7 +82,7 @@ Nov 12
 **HW 9**{: .label .label-red } [Homework 9 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_9)
   
 Nov 16
-: Age-Dependent Structures in Compartmental Models
+: [Age-Dependent Structures in Compartmental Models](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/14_Lec_AgeDep_Vac.pdf)
 
 Nov 18
 : Age-Dependence and Vaccination Effects
