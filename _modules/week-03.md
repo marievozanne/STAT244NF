@@ -74,7 +74,7 @@ Nov 9
 
 Nov 11
 : Storage for Multiple Simulations; Incorporating Births and Deaths
-  : [R Lab 9](https://github.com/mhc-stat-244nf-f2021/Lab_9); Solutions
+  : [R Lab 9](https://github.com/mhc-stat-244nf-f2021/Lab_9); [Solutions](https://github.com/mhc-stat-244nf-f2021/Lab_9_solutions)
   
 Nov 12
 : **HW 8 (Final Project Check-in) Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
