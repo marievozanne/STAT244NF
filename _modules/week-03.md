@@ -86,7 +86,7 @@ Nov 16
 
 Nov 18
 : Age-Dependence and Vaccination Effects
-  : [R Lab 10](#)
+  : [R Lab 10](https://github.com/mhc-stat-244nf-f2021/Lab_10); Solutions
 
 Nov 19
 : **HW 9 Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
