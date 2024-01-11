@@ -2,7 +2,72 @@
 title: Compartmental Models
 ---
 
-Oct 5
+<!-- WEEK 5-->
+
+Feb 20
+
+Feb 22
+
+Feb 23
+
+<!-- WEEK 6-->
+Feb 27
+: [Introduction to Compartmental Models]
+
+Feb 29
+
+Mar 1
+
+<!-- WEEK 7-->
+
+Mar 5
+
+Mar 7
+
+Mar 8
+
+<!-- WEEK 8-->
+
+Mar 12
+
+Mar 14
+
+Mar 15
+
+<!-- WEEK SPRING BREAK-->
+
+Mar 19
+: SPRING BREAK - NO CLASS
+
+Mar 21
+: SPRING BREAK - NO CLASS
+
+<!-- WEEK 9-->
+
+Mar 26
+
+Mar 28
+
+Mar 29
+
+<!-- WEEK 10-->
+
+Apr 2
+
+Apr 4
+
+Apr 5
+
+<!-- WEEK 11-->
+
+Apr 9
+
+Apr 11
+
+Apr 12
+
+
+<!--Oct 5
 : [Introduction to Compartmental Models](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/6_Lec_Compartmental.pdf)
   : [Class Activity](https://github.com/marievozanne/STAT244NF_class/blob/main/Compartmental_Models/6_CA_Compartmental.pdf)
 
@@ -89,6 +154,6 @@ Nov 18
   : [R Lab 10](https://github.com/mhc-stat-244nf-f2021/Lab_10); Solutions
 
 Nov 19
-: **HW 9 Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+: **HW 9 Due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))-->
 
 

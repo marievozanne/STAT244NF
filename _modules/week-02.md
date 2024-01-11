@@ -1,8 +1,39 @@
 ---
-title: Epidemiological Characteristics and Regression-based Methods
+title: Regression-based Methods and Epidemiological Characteristics
 ---
 
-Sept 7
+<!-- WEEK 2-->
+Jan 30
+
+Feb 1
+
+Feb 2
+: **HW 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+**HW 2**{: .label .label-red } [Homework 2 R Markdown]<!--(https://github.com/mhc-stat-244nf-f2021/Homework_2)-->
+
+<!-- WEEK 3-->
+
+Feb 6
+
+Feb 8
+
+Feb 9
+: **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
+
+**HW 3**{: .label .label-red } [Homework 3 R Markdown]<!--(https://github.com/mhc-stat-244nf-f2021/Homework_3)--
+
+<!-- WEEK 4-->
+
+Feb 13
+
+Feb 15
+
+Feb 16
+
+
+
+<!--Sept 7
 : [Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_Lec_Measures_of_Risk.pdf)
   : [Class Activity: Incidence and Prevalence](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/2_CA_Incidence_Prevalence.pdf)
 
@@ -51,4 +82,4 @@ Sept 30
 Oct 1
 : **HW 4 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**Project 1**{: .label .label-red } [Description](https://github.com/marievozanne/STAT244NF_class/blob/main/Project1/Project_1.pdf)
+**Project 1**{: .label .label-red } [Description](https://github.com/marievozanne/STAT244NF_class/blob/main/Project1/Project_1.pdf)-->
