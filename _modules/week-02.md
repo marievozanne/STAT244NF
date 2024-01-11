@@ -10,7 +10,7 @@ Feb 1
 Feb 2
 : **HW 1 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**HW 2**{: .label .label-red } [Homework 2 R Markdown]<!--(https://github.com/mhc-stat-244nf-f2021/Homework_2)-->
+**HW 2**{: .label .label-red } <!--[Homework 2 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_2)-->
 
 <!-- WEEK 3-->
 
@@ -21,7 +21,7 @@ Feb 8
 Feb 9
 : **HW 2 due**{: .label .label-red } (turn in to [Gradescope](https://gradescope.com))
 
-**HW 3**{: .label .label-red } [Homework 3 R Markdown]<!--(https://github.com/mhc-stat-244nf-f2021/Homework_3)--
+**HW 3**{: .label .label-red } <!--[Homework 3 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_3)-->
 
 <!-- WEEK 4-->
 
