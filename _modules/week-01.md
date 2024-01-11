@@ -7,8 +7,8 @@ Jan 23
   : [Class Activity: "Agent X"](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/0_CA_Brainstorm_Agent_X.pdf) 
 
 Jan 25
-: <!--[Epidemiology Overview](https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/1_Lec_Epi_Data_Disease.pdf)-->
-  : [R Lab 0]<!--(https://github.com/mhc-stat-244nf-f2021/Lab_0); --> [Solutions]<!--(https://github.com/mhc-stat-244nf-f2021/Lab_0_solutions)-->
+: [Epidemiology Overview]()<!--(https://github.com/marievozanne/STAT244NF_class/blob/main/Introduction/1_Lec_Epi_Data_Disease.pdf)-->
+  : [R Lab 0]()<!--(https://github.com/mhc-stat-244nf-f2021/Lab_0); --> [Solutions]()<!--(https://github.com/mhc-stat-244nf-f2021/Lab_0_solutions)-->
   
 **HW 1**{: .label .label-red } <!--[Homework 1 R Markdown](https://github.com/mhc-stat-244nf-f2021/Homework_1)-->
 
