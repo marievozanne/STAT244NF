@@ -41,24 +41,24 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: STAT 244NF-02
-        start: 8:30 AM
-        end: 9:45 AM
-        location: TBA
       - name: STAT 244NF-01
+        start: 10:30 AM
+        end: 11:45 AM
+        location: Clapp 401
+      - name: STAT 244NF-02
         start: 1:45 PM
         end: 3:00 PM
-        location: TBA
+        location: Clapp 401
   - name: Wednesday
   - name: Thursday
     events:
-      - name: STAT 244NF-02
-        start: 8:30 AM
-        end: 9:45 AM
-        location: TBA
       - name: STAT 244NF-01
+        start: 10:30 AM
+        end: 11:45 AM
+        location: Clapp 401
+      - name: STAT 244NF-02
         start: 1:45 PM
         end: 3:00 PM
-        location: TBA
+        location: Clapp 401
   - name: Friday
 ---
