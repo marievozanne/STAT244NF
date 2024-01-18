@@ -1,11 +1,11 @@
 ---
-title: 8/31/2021 Announcement
+title: 1/23/2024 Announcement
 week: 0
-date: 2021-08-31
+date: 2024-01-23
 ---
 
 After class please complete the following: 
 
-1. Complete [poll](http://whenisgood.net/bwm7nsz) for scheduling office hours: .
-2. Complete [pre-course questionnaire](https://forms.gle/4NMoRbiMEBjEU3Sf9). 
+1. Complete [poll](https://whenisgood.net/hey2bbm) for scheduling office hours: .
+2. Complete [pre-course questionnaire](https://forms.gle/Wwu9CxZXLEjDvgnB8). 
 {: .fs-5 }
